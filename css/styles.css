@@ -1,15 +1,20 @@
 body{
-	background-image: url(../assets/carvedArt.jpg);
+
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
 	text-align: center;
 }
 .parallax{
-	background-color: red;
+	/*background-color: red;*/
 	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: auto;
+    background-image: url(../assets/carvedArt.jpg);
+}
+div{
+    height: auto;
+    background-color: red;
 }
