@@ -1,0 +1,10 @@
+body{
+	background-image: url(../assets/carvedArt.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+.parallax{
+	background-color: darkgray;
+}
